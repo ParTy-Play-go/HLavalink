@@ -13,6 +13,7 @@ lavalink:
       soundcloud: true
       twitch: true
       vimeo: true
+      spotify: true
       mixer: true
       http: true
       local: false
